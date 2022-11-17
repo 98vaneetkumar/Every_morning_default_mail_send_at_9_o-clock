@@ -1,0 +1,8 @@
+/node_modules/
+/.env
+# DATABASE_NAME="CORN"
+# EMAIL_HOST=""
+# EMAIL_SERVICE=""
+# EMAIL_HOST=
+# EMAIL_FROM=""
+# EMIAL_PASS=""
